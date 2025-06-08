@@ -20,7 +20,6 @@ A GUI-based machine learning application that predicts student placement outcome
 - **Python**
 - **Tkinter** (for GUI)
 - **Pandas, Scikit-learn, Seaborn, Matplotlib**
-- **SMOTE** for class imbalance handling
 - **Joblib** for model serialization
 
 ---
